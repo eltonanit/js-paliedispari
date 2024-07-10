@@ -9,9 +9,18 @@
 
 <body>
 
-    <h2>Verifica se una parola è palindroma</h2>
-    <input type="text" id="stringa" placeholder="Inserisci una parola">
-    <button id="checkPalindroma">Verifica</button>
+    <h2>Gioco Pari o Dispari</h2>
+    
+    <label for="scelta">Scegli Pari o Dispari:</label>
+    <select id="scelta">
+        <option value="pari">Pari</option>
+        <option value="dispari">Dispari</option>
+    </select>
+    
+    <input type="number" id="userNumber"  placeholder="Inserisci un numero da 1 a 5">
+    
+    <button id="gioca">Gioca</button>
+     
     <div id="result"></div>
 
     <script src="js/script.js" type="text/javascript">
