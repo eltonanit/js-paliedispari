@@ -3,12 +3,8 @@ nome repo: js-paliedispari
 Palidroma
 Chiedere all’utente di inserire una parola.
 Creare una funzione per capire se la parola inserita è palindroma
-Pari e Dispari
-L’utente inserisce prima  "pari" o "dispari" poi inserisce un numero da 1 a 5. Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
-Sommiamo i due numeri
-Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
 
-Dichiariamo chi ha vinto.
+
 
 Numero di push: 10 circa minimo
 
@@ -32,3 +28,19 @@ ESERCXIO :
 6-Verifico se la nuova parola è uguale a quella inserita dall utente
 7-Se è uguale, la stringa è PALINDROMA
 8- ALTRIMENTI la stringa non è PALINDROMA
+
+ESERCXIO 2 :
+Pari e Dispari
+L’utente inserisce prima  "pari" o "dispari" poi inserisce un numero da 1 a 5. Generiamo un numero random (sempre da 1 a 5) per il computer (usando una funzione).
+Sommiamo i due numeri
+Stabiliamo se la somma dei due numeri è pari o dispari (usando una funzione)
+
+Dichiariamo chi ha vinto.
+
+1-
+2-
+3-
+4-
+5-
+6-
+7-
