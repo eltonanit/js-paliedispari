@@ -20,3 +20,14 @@ function checkPalindroma(stringa) {
         return false;
     }
 }
+
+// Uso get elementbyid + addeventlistner e associo il check al buttone dentro html
+
+document.getElementById('checkPalindroma').addEventListener('click', function () {
+    // prendo l'elemoento inserito da utente
+    let word = document.getElementById('stringa').value;
+    
+    //la stringa result la 
+    let result = checkPalindroma(word) ? "La parola è palindroma" : "La parola non è palindroma";
+    document.getElementById('result').innerHTML = `<h3>${result}</h3>`;
+});
